@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumFixtures", "SeleniumFixtures\SeleniumFixtures.csproj", "{00E05CBE-3858-49F9-B3C2-3FDC8E0C0CDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00E05CBE-3858-49F9-B3C2-3FDC8E0C0CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E05CBE-3858-49F9-B3C2-3FDC8E0C0CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E05CBE-3858-49F9-B3C2-3FDC8E0C0CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E05CBE-3858-49F9-B3C2-3FDC8E0C0CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2813780C-B09C-46BF-AF13-CF7DA0158745}
+	EndGlobalSection
+EndGlobal

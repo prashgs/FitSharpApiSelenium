@@ -1,0 +1,15 @@
+﻿<suiteConfig>
+  <System.AppDomainSetup>
+    <ApplicationBase>SeleniumFixtures</ApplicationBase>
+    <ConfigurationFile>app.config</ConfigurationFile>
+  </System.AppDomainSetup>
+  <ApplicationUnderTest>
+    <AddAssembly>SeleniumFixtures\bin\Debug\SeleniumFixtures.dll</AddAssembly>
+    <AddOptionalAssembly>SeleniumFixtures\FitSharp\fit.dll</AddOptionalAssembly>
+    <AddOptionalAssembly>SeleniumFixtures\FitSharp\fitSharp.dll</AddOptionalAssembly>
+    <AddNamespace>SeleniumFixtures</AddNamespace>
+  </ApplicationUnderTest>
+  <Settings>
+    <Runner>fitSharp.Slim.Service.Runner</Runner>
+  </Settings>
+</suiteConfig>
